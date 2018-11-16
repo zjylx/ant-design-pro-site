@@ -489,13 +489,14 @@
   text-overflow: ellipsis;
   margin: 0;
 }
-.field___2bQJx span {
+.field___2bQJx .label___7ZmvI,
+.field___2bQJx .number___1ixtl {
   font-size: 14px;
   line-height: 22px;
 }
-.field___2bQJx span:last-child {
-  margin-left: 8px;
+.field___2bQJx .number___1ixtl {
   color: rgba(0, 0, 0, 0.85);
+  margin-left: 8px;
 }
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
@@ -833,6 +834,10 @@
 }
 .login___MLjmJ .ant-form-item {
   margin: 0 2px 24px;
+}
+.login___MLjmJ .getCaptcha___xwtqL {
+  display: block;
+  width: 100%;
 }
 .login___MLjmJ .icon___xgCWA {
   font-size: 24px;
