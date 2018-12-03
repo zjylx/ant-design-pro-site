@@ -201,6 +201,10 @@
   height: 20px;
   line-height: 20px;
 }
+.avatarItemMini___3A1Y7 .ant-avatar .ant-avatar-string {
+  font-size: 12px;
+  line-height: 18px;
+}
 /* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable */
@@ -538,9 +542,6 @@
   overflow: hidden;
 }
 .tagCloud___H0dCx canvas {
-  -webkit-transform: scale(0.25);
-      -ms-transform: scale(0.25);
-          transform: scale(0.25);
   -webkit-transform-origin: 0 0;
       -ms-transform-origin: 0 0;
           transform-origin: 0 0;
