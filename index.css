@@ -244,8 +244,9 @@
 .chartCard___3uAKx .action___2ISUQ {
   cursor: pointer;
   position: absolute;
-  top: 0;
+  top: 4px;
   right: 0;
+  line-height: 1;
 }
 .chartCard___3uAKx .total___1VywC {
   overflow: hidden;
@@ -872,6 +873,24 @@
 /* stylelint-disable no-duplicate-selectors */
 /* stylelint-disable */
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
+.container___3BqCz > * {
+  background-color: #fff;
+  -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+@media screen and (max-width: 480px) {
+  .container___3BqCz {
+    width: 100% !important;
+  }
+  .container___3BqCz > * {
+    border-radius: 0 !important;
+  }
+}
+/* stylelint-disable at-rule-empty-line-before,at-rule-name-space-after,at-rule-no-unknown */
+/* stylelint-disable no-duplicate-selectors */
+/* stylelint-disable */
+/* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
 .list___3Ac2I {
   max-height: 400px;
   overflow: auto;
@@ -953,9 +972,6 @@
 /* stylelint-disable declaration-bang-space-before,no-duplicate-selectors,string-no-newline */
 .popover___3Wpe2 {
   width: 336px;
-}
-.popover___3Wpe2 .ant-popover-inner-content {
-  padding: 0;
 }
 .noticeButton___4GUo0 {
   cursor: pointer;
