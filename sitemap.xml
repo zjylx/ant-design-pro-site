@@ -10,9 +10,7 @@
 <url> <loc>https://pro.ant.design/docs/from-community-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/from-community</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/getting-start-inner-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/graph</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/import</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/graph-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/import-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/mock-api</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/new-page-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,7 +28,6 @@
 <url> <loc>https://pro.ant.design/blog/change-theme</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/new-pro-use</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/change-theme-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/authority-management</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/authority-management-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/available-script</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/build-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -49,8 +46,6 @@
 <url> <loc>https://pro.ant.design/docs/new-component</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/new-component-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/new-page</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/router-and-nav</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://pro.ant.design/docs/router-and-nav-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/server</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/server-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/style</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -60,6 +55,11 @@
 <url> <loc>https://pro.ant.design/docs/faq</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/docs/faq-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/blog/new-pro-use-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/authority-management</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/graph</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/graph-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/router-and-nav-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pro.ant.design/docs/router-and-nav</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/index-cn</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pro.ant.design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
